@@ -1,13 +1,14 @@
 body {
     color: rgb(231, 244, 189);
-    background: rgb(6, 0, 14);
+    background: rgb(53, 13, 104);
 }
 
 header {
     border-bottom: solid 2px rgb(42, 122, 228);
+    font-family: "Chakra Petch", sans-serif;
     padding: 20px;
     font-size: 32px;
-    color: rgb(207, 231, 68);
+    color: goldenrod;
 }
 
 section{ 
