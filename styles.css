@@ -19,3 +19,31 @@ section{
 h1 {
     background-color: rgb(17, 2, 85);   
 }
+
+h2 {
+    background-color: rgb(50, 7, 238);   
+    color: gold;
+    font-family: "Chakra Petch", sans-serif;
+}
+
+.c1 {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.agradecimeto {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    font-family: "Chakra Petch", sans-serif;
+    padding: 20px;
+    font-size: 32px;
+    color: goldenrod;
+    
+
+}
+
+.c2 {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
