@@ -1,6 +1,9 @@
 body {
     color: rgb(231, 244, 189);
     background: rgb(53, 13, 104);
+    margin-bottom: 100px;
+    margin-top: 50px;
+
 }
 
 header {
@@ -30,6 +33,16 @@ h2 {
     display: flex;
     overflow-x: auto;
     gap: 10px;
+
+}
+
+.c1 img {
+    opacity 0.5;
+
+}
+
+.c1 img:hover {
+    opacity 1.0;
 }
 
 .agradecimeto {
@@ -46,4 +59,13 @@ h2 {
     display: flex;
     overflow-x: auto;
     gap: 10px;
+}
+
+.c2 img {
+    opacity 0.5;
+
+}
+
+.c2 img:hover {
+    opacity 1.0;
 }
